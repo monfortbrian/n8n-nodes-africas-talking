@@ -7,16 +7,16 @@
 
 n8n community node for integrating with Africa’s Talking APIs (SMS, Voice, Airtime).
 
-[n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
+[n8n](https://n8n.io/) is a workflow automation platform.
 
 
 ## Installation
 
 ### Community Nodes (Recommended)
-Go to Settings > Community Nodes
-Select Install
-Enter n8n-nodes-mtn-momo
-Agree and install
+1. Go to Settings > Community Nodes
+2. Select Install
+3. Enter n8n-nodes-mtn-momo
+4. Agree and install
 
 
 ### Manual Installation
