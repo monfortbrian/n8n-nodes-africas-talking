@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-africas-talking",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "n8n node for Africa's Talking API - Send SMS, airtime, and make voice calls",
 	"license": "MIT",
 	"homepage": "https://github.com/monfortbrian/n8n-nodes-africas-talking",
