@@ -7,6 +7,14 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.0.1] - 2026-06-09
+
+### Fixed
+- GitHub Actions publish workflow updated: added `--ignore-scripts` to bypass `prepublishOnly` hook, updated action versions to `checkout@v4.2.2` and `setup-node@v4.4.0` for Node.js 24 compatibility, added `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24` env var.
+- npm provenance now active, all future releases published via GitHub Actions with cryptographic provenance statement.
+
+---
+
 ## [1.0.0] - 2026-04-15
 
 ### Added
